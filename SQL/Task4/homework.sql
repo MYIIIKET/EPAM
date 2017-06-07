@@ -1,0 +1,1 @@
+select a, ceil(exp(sum(ln(b)))) multiply from mytable group by a
